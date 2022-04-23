@@ -1,0 +1,7 @@
+- TODO [#A] Report
+- TODO Testing
+	- TODO Train on only 10 attributes and test on other 3
+		- If it works does it work for any combination or are their any for which it does not work
+		- If it does not work try to find a combination for which it does work
+	- TODO Split the train and validation based on the character, i.e. there should not be any face in common between them.
+		- Does it enhance or degrade the training.

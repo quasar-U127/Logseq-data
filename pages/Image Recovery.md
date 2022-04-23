@@ -1,0 +1,10 @@
+- TODO [#A] Report
+- Testing
+	- TODO Test the recovered images using FNMR or any other facial recog alogorithm
+	- TODO Get the Det curves for the report
+- Variations
+	- TODO Try changing more than 1 attribute
+		- TODO 2 Atts
+		- TODO 3 atts
+	- TODO feedback the resultant image again back into the STAGN to see if previously unaffected attributes show any noticable change. If any then how many iterations are necessary.
+- TODO [[Alteration Localization]]
